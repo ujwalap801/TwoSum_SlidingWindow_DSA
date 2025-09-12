@@ -4,3 +4,5 @@
 ## [TwoSum_II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
 ## [Is_Subsequence](https://leetcode.com/problems/is-subsequence/)
+
+## [Index_FirstOccurence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)

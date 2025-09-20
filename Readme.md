@@ -10,3 +10,5 @@
 ## [Containing_Water](https://leetcode.com/problems/container-with-most-water/)
 
 ## [Longest_SubString](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+## [Longest_Repeating](https://leetcode.com/problems/longest-repeating-character-replacement/description/)

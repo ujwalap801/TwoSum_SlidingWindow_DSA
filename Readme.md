@@ -12,3 +12,5 @@
 ## [Longest_SubString](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ## [Longest_Repeating](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+
+##[PermutationString](https://leetcode.com/problems/permutation-in-string/)
